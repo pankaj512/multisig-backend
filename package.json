@@ -1,0 +1,15 @@
+{
+  "name": "multisigbackend",
+  "version": "1.0.0",
+  "description": "backend for multisig as service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Pankaj Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
